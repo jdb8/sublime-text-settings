@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"LESS",
+		"Package Control",
+		"Prolog",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Phoenix"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeLinter"
+	],
+	"scroll_speed": 1.0,
+	"theme": "Soda Light.sublime-theme"
+}
