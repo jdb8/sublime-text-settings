@@ -4,6 +4,10 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_face": "Inconsolata",
 	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"phoenix_color_expanded_folder": true,
 	"phoenix_color_green": true,
 	"phoenix_dirty_bottom_bar": true,
