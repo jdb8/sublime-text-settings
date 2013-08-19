@@ -1,0 +1,6 @@
+{
+    "gutter_marks": "bookmark",
+    "pep8": false,
+    "complexity": 11,
+    "lint_on_load": true
+}
