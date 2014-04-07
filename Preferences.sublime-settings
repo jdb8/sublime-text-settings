@@ -6,8 +6,7 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeRope"
+		"Vintage"
 	],
 	"phoenix_color_expanded_folder": true,
 	"phoenix_color_green": true,
