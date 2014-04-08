@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"Future Funk - Color Scheme",
 		"Git",
 		"GitGutter",
 		"HTMLBeautify",
@@ -17,6 +18,7 @@
 		"Terminal",
 		"Theme - Phoenix",
 		"Theme - Soda",
+		"Theme - Spacefunk",
 		"Theme - Spacegray"
 	]
 }
