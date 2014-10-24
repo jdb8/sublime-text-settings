@@ -2,23 +2,24 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"Behave Color Scheme",
+		"caniuse_local",
+		"DashDoc",
+		"Dotfiles Syntax Highlighting",
 		"Emmet",
 		"Future Funk - Color Scheme",
 		"Git",
 		"GitGutter",
-		"HTMLBeautify",
 		"Jinja2",
-		"LaTeX Word Count",
-		"LaTeXTools",
-		"LESS",
+		"jQuery",
 		"Package Control",
 		"Python Flake8 Lint",
 		"Sass",
 		"SideBarEnhancements",
-		"Terminal",
-		"Theme - Phoenix",
-		"Theme - Soda",
-		"Theme - Spacefunk",
-		"Theme - Spacegray"
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
+		"Theme - Spacefunk"
 	]
 }
