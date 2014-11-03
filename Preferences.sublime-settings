@@ -5,15 +5,14 @@
 	"font_face": "Inconsolata",
 	"font_size": 16,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Emmet",
 		"Vintage",
-		"PyV8",
-		"Git"
+		"PyV8"
 	],
 	"show_full_path": true,
-	"theme": "Spacefunk (Blue Monday).sublime-theme",
+	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
