@@ -1,22 +1,26 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Future Funk - Color Scheme/Future Funk (Blue Monday).tmTheme",
+	"color_scheme": "Packages/Behave Color Scheme/Behave.tmTheme",
 	"default_line_ending": "unix",
+	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Inconsolata",
-	"font_size": 14,
+	"font_size": 16,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"PyV8",
 		"Vintage"
 	],
-	"phoenix_color_expanded_folder": true,
-	"phoenix_color_green": true,
-	"phoenix_dirty_bottom_bar": true,
-	"phoenix_dirty_bottom_bar_red": true,
-	"phoenix_highlight_current_tab": true,
-	"phoenix_tabs_auto_width": true,
-	"theme": "Spacefunk (Blue Monday).sublime-theme",
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"scroll_speed": 0,
+	"show_full_path": true,
+	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

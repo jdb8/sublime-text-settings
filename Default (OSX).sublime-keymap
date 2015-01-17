@@ -1,2 +1,4 @@
 [
+    { "keys": ["shift+command+m"], "command": "goto_definition" },
+    { "keys": ["ctrl+i"], "command": "reindent" }
 ]
