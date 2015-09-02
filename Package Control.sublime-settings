@@ -1,27 +1,35 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"Behave Color Scheme",
 		"DashDoc",
 		"Dotfiles Syntax Highlighting",
 		"Emmet",
 		"Future Funk - Color Scheme",
-		"GitGutter",
 		"Jinja2",
 		"jQuery",
+		"JsFormat",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Python Flake8 Lint",
 		"Sass",
+		"SCSS",
 		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-jshint",
-		"TabsExtra",
+		"SublimeLinter-json",
+		"Theme - Broceanic",
 		"Theme - Cobalt2",
 		"Theme - Spacefunk",
-		"Themr"
+		"Theme - Spacegray"
 	]
 }
